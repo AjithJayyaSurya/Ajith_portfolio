@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ajithjayya.vercel.app/sitemap.xml
+Sitemap: https://ajith-portfolio-git-main-ajithjayyasuryas-projects.vercel.app/sitemap.xml

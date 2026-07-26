@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://ajithjayya.vercel.app"),
+  metadataBase: new URL("https://ajith-portfolio-git-main-ajithjayyasuryas-projects.vercel.app"),
   title: "Ajith Jayya Surya E | AI Engineer & Sports Analytics Enthusiast",
   description:
     "Portfolio of Ajith Jayya Surya E — AI Engineer, Machine Learning Engineer, Data Analyst & Sports Analytics Enthusiast. B.Tech CSE (AI & Data Analytics) at SRIHER. Specializing in F1 Analytics, Cricket Analytics, and ML Systems.",
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://ajithjayya.vercel.app",
+    url: "https://ajith-portfolio-git-main-ajithjayyasuryas-projects.vercel.app",
     siteName: "Ajith Jayya Surya E | Portfolio",
     title: "Ajith Jayya Surya E | AI Engineer & Sports Analytics Enthusiast",
     description:
@@ -80,7 +80,7 @@ export default function RootLayout({
     <html lang="en" className={inter.variable}>
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="canonical" href="https://ajithjayya.vercel.app" />
+        <link rel="canonical" href="https://ajith-portfolio-git-main-ajithjayyasuryas-projects.vercel.app" />
         <meta name="theme-color" content="#000000" />
         <script
           type="application/ld+json"
@@ -89,7 +89,7 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "Person",
               name: "Ajith Jayya Surya E",
-              url: "https://ajithjayya.vercel.app",
+              url: "https://ajith-portfolio-git-main-ajithjayyasuryas-projects.vercel.app",
               jobTitle: "AI Engineer",
               alumniOf: {
                 "@type": "CollegeOrUniversity",
